@@ -23,6 +23,12 @@ I'm Vy Nguyen, a recent Computer Science major and Data Science minor graduate f
  - Everything
 
 ## 📚 My Projects
+### [RNA 3D Motif Atlas](http://rna.bgsu.edu/rna3dhub/motifs)
+Cluster 3000 RNA loops based on their geometric discrepancies and structural annotations
+### E-commerce Web App
+Shopping Web Application with Admins' pages and Users' pages
+### Code Commander V2
+Progressive Web Application for Bowling Green's law enforcer to analyze and record violations
 
 
 ## 📫 How to reach me
