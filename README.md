@@ -35,6 +35,5 @@ Progressive Web Application for Bowling Green's law enforcer to analyze and reco
 
 - Email: vtnguye@bgsu/edu
 - LinkedIn: [linkedin.com/in/vtnguye](https://www.linkedin.com/in/vtnguye)
-- Portfolio: [vynguyen.github.io](https://vynguyen.github.io)
 
 Let's connect and collaborate! 😄
